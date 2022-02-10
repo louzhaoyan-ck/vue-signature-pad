@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "merge-images": "^1.1.0",
-    "signature_pad": "^3.0.0-beta.3",
+    "signature_pad_louzhaoyan": "^4.0.2-louzhaoyan",
     "vue": "^2.6.11"
   },
   "devDependencies": {
