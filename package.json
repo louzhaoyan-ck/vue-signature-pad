@@ -57,7 +57,7 @@
   "author": "Peng Jie <bivinity.pengzjie@gmail.com> (https://github.com/neighborhood999)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neighborhood999/vue-signature-pad.git"
+    "url": "https://github.com/louzhaoyan-ck/vue-signature-pad.git"
   },
   "keywords": [
     "vue",
@@ -65,7 +65,7 @@
     "component"
   ],
   "bugs": {
-    "url": "https://github.com/neighborhood999/vue-signature-pad/issues"
+    "url": "https://github.com/louzhaoyan-ck/vue-signature-pad/issues"
   },
   "dependencies": {
     "merge-images": "^1.1.0",
