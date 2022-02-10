@@ -1,5 +1,5 @@
 <script>
-import SignaturePad from 'signature_pad';
+import SignaturePad from 'signature_pad_louzhaoyan';
 import mergeImages from 'merge-images';
 import {
   DEFAULT_OPTIONS,
